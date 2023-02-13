@@ -20,6 +20,7 @@ Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 2. En el terminal lanzar el siguiente comando:
 ```sh
 roslaunch <nombre_paquete> main.launch
+```
 
 ## Ejecución de movimientos coordinados secuenciales.
 
