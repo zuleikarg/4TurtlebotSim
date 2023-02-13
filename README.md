@@ -1,5 +1,5 @@
 Projecto desarrollado por: [Zuleika María Redondo García]
-# Sistema Multirobot de 4 Turtlebots en simulación
+# Sistema Multirobot de 4 *Turtlebots* en simulación
 
 Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 
@@ -9,9 +9,7 @@ Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 - [Paquetes turtlebot 2 simulación] para la simulación en gazebo.
 
 ## Instalación
-- Creación de un workspace de ROS.
-- Dentro del worksplace realizar git clone del repositorio como un paquete.
-- Compilación.
+- Estos códigos son **meramente visuales**.
 
 ## Ejecución de movimientos coordinados sincronizados.
 
