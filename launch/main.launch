@@ -4,5 +4,5 @@
         <node name="gazebo" pkg="gazebo_ros" type="gazebo"
         args="$(find turtlebot_gazebo)/worlds/playground.world" respawn="false" output="screen" />
     <!-- include our robots -->
-        <include file="$(find p1)/launch/robots.launch"/>
+        <include file="$(find move_sync_sec)/launch/robots.launch"/>
 </launch>
