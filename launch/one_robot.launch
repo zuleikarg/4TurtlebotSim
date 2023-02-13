@@ -24,13 +24,13 @@
         <!--remap from="/joint_states" to="/$(arg robot_name)/joint_states" /-->
     </node>
 
-    <!--    <node pkg="p1" type="move_sync.py"
+    <!--<node pkg="move_sync_sec" type="move_sync.py"
     name="move_robot">
         <param name="robot_id" type="string" value="$(arg robot_name)"/>
 
     </node> -->
 
-    <!--<node pkg="p1" type="move_sec.py"
+    <!--<node pkg="move_sync_sec" type="move_sec.py"
     name="move_robot">
         <param name="robot_id" type="string" value="$(arg robot_name)"/>
     </node>-->
