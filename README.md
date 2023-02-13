@@ -4,8 +4,9 @@ Projecto desarrollado por: [Zuleika María Redondo García]
 Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 
 ## Requisitos
-- ROS kinetic
-- [Paquetes turtlebot 2] Para la realización de la simulación
+- ROS kinetic.
+- [Paquetes turtlebot 2] para el uso de los turtlebots.
+- [Paquetes turtlebot 2 simulación] para la simulación en gazebo.
 
 ## Instalación
 - Creación de un workspace de ROS.
@@ -31,3 +32,4 @@ roslaunch <nombre_paquete> main.launch
 
 [Zuleika María Redondo García]: https://github.com/zuleikarg
 [Paquetes turtlebot 2]: https://github.com/turtlebot/turtlebot.git
+[Paquetes turtlebot 2 simulación]: https://github.com/turtlebot/turtlebot_simulator
