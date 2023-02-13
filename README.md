@@ -26,8 +26,8 @@ roslaunch <nombre_paquete> main.launch
 2. En el terminal lanzar el siguiente comando:
 ```sh
 roslaunch <nombre_paquete> main.launch
+```
 
-## Preparación de scripts
 
 [Zuleika María Redondo García]: https://github.com/zuleikarg
 [Paquete turtlebot 2]: https://github.com/turtlebot/turtlebot.git
