@@ -10,8 +10,7 @@ Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 
 ## Instalación
 - Creación de un workspace de ROS.
-- Generación un nuevo paquete.
-- Descarga de los archivos dentro del paquete.
+- Dentro del worksplace realizar git clone del repositorio como un paquete.
 - Compilación.
 
 ## Ejecución de movimientos coordinados sincronizados.
@@ -19,7 +18,7 @@ Repositorio de la práctica 1 de la asginatura de Sistemas Multirobot
 1. Asegurar que está descomentado la llamada al nodo "move_sync.py" en el archivo "one_robot.launch".
 2. En el terminal lanzar el siguiente comando:
 ```sh
-roslaunch <nombre_paquete> main.launch
+roslaunch move_sync_sec main.launch
 ```
 
 ## Ejecución de movimientos coordinados secuenciales.
@@ -27,7 +26,7 @@ roslaunch <nombre_paquete> main.launch
 1. Asegurar que está descomentado la llamada al nodo "move_sec.py" en el archivo "one_robot.launch".
 2. En el terminal lanzar el siguiente comando:
 ```sh
-roslaunch <nombre_paquete> main.launch
+roslaunch move_sync_sec main.launch
 ```
 
 
